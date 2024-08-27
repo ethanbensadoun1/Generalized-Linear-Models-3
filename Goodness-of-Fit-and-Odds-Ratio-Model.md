@@ -3,8 +3,6 @@ Goodness of Fit and Odds Ratio Model
 Ethan Bensadoun
 2024-08-15
 
-## Assignment 4 - Question 2
-
 ``` r
 #load the data into R
 survey_data = read.csv("/Users/ethanbensadoun/Desktop/GSS1991.csv", header=T)
