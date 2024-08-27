@@ -3,8 +3,6 @@ Contingency Table for a Conditional Independence Model
 Ethan Bensadoun
 2024-08-15
 
-## Assignment 4 - Question 1
-
 ``` r
 # Here we can manually input the data from the contigency table in question 1
 HighwaySafety_data <- tibble(
